@@ -1,8 +1,8 @@
 {
-  "name": "liostuido-frontend",
+  "name": "next",
   "version": "0.0.1",
-  "description": "L I O STUDIO FRONTEND",
-  "author": "L I O STUDIO",
+  "description": "next-with-typescript",
+  "author": "numeru",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
